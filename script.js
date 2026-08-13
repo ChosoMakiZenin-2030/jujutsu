@@ -1,8 +1,3 @@
-```javascript
-// ================================
-// ANIMAÇÃO AO ROLAR A PÁGINA
-// ================================
-
 const cards = document.querySelectorAll(".card");
 const techniques = document.querySelectorAll(".technique");
 
